@@ -1,0 +1,16 @@
+[
+{
+  "modid": "technotechno",
+  "name": "TechnoTechno",
+  "description": "Techno world. No further explanation required",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jcrm1"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
