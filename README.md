@@ -9,6 +9,7 @@ Can be easily modified to turn change what player you change to:
 2. In the resources folder, swap out skin.png for a different file (must be named skin.png)
 3. Build
 
-Not afiliated with Technoblade.
+Not affiliated with Technoblade.
 
+Edit 6/30:
 o7 to the skies
